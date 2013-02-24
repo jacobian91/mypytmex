@@ -1,0 +1,13 @@
+*~
+~*
+
+.hg/*
+.idea/*
+
+dist/*
+build/*
+
+*.bak
+*.py[cod]
+*.tm[po]
+*.sw[po]
